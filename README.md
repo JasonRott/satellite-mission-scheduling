@@ -3,6 +3,7 @@
 > 國立清華大學 工業工程與工程管理學系 — 畢業專題（第十組）
 > National Tsing Hua University, Dept. of IEEM — Capstone Project (Team 10)
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github)](https://github.com/JasonRott/satellite-mission-scheduling)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![IBM CPLEX](https://img.shields.io/badge/IBM%20CPLEX-22.1%2B-red)](https://www.ibm.com/products/ilog-cplex-optimization-studio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
