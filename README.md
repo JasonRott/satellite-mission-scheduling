@@ -17,7 +17,8 @@
 This project addresses the **single-satellite task scheduling problem**, formulated and solved using both **Mixed Integer Linear Programming (MILP)** and **Constraint Programming (CP)** via IBM CPLEX/CP Optimizer, with systematic performance benchmarking.
 
 **目標 / Objective**:
-$$\max \quad 600 \sum_{i} x_i \;-\; 100 \cdot \frac{\sum_{i \in \text{Download} \cup \text{Remove}} \text{start}_i}{T_{\text{horizon}}}$$
+
+![Objective Function](https://latex.codecogs.com/svg.image?\bg{white}\max\quad600\sum_{i}x_i\;-\;100\cdot\frac{\sum_{i\in\text{Download}\cup\text{Remove}}\text{start}_i}{T_{\text{horizon}}})
 
 ---
 
